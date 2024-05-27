@@ -1,0 +1,3 @@
+C:/Users/abdou/Desktop/UNCHK/SEMESTE 1/Programmation1/Examen/choosingSortingAlgorithm/cmake-build-debug/CMakeFiles/choosingSortingAlgorithm.dir
+C:/Users/abdou/Desktop/UNCHK/SEMESTE 1/Programmation1/Examen/choosingSortingAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdou/Desktop/UNCHK/SEMESTE 1/Programmation1/Examen/choosingSortingAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
